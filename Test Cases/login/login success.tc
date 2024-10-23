@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test cases login web saucedemo</description>
+   <name>login success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>add04dfd-53de-42b1-868d-8418af50ab6f</testCaseGuid>
+</TestCaseEntity>

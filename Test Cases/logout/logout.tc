@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case logout</description>
+   <name>logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b86207eb-1544-4c9a-b229-1445dd3825c5</testCaseGuid>
+</TestCaseEntity>
