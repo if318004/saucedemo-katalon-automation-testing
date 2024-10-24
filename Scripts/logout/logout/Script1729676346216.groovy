@@ -24,4 +24,4 @@ WebUI.click(findTestObject ('saucedemo/Icon/burger-button'))
 WebUI.click(findTestObject ('saucedemo/Icon/logout'))
 
 //verify user berhasil logout
-WebUI.verifyElementPresent(findTestObject ('saucedemo/Button/button-login'), 20)
+WebUI.verifyElementPresent(findTestObject ('saucedemo/Button/button-login'), 10)
